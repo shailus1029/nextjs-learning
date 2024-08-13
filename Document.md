@@ -29,3 +29,8 @@ not-founs.tsx -->> Define Not Route fallback page.
 
 error.tsx -->> Define "Error" fallback page.
 
+3. Layout file.
+- Layout file defines the shell around one or more pages or nested folder pages.
+- Every next project needs atleast one root layout.tsx/js file.
+
+
